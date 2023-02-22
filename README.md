@@ -4,6 +4,8 @@
 
 ## add NEXTAUTH_URL to .env
 
-## type npx prisma migrate dev to terminal
+## type npm install in terminal
+
+## type npx prisma migrate dev in terminal
 
 This is app with nextjs, trpc, next-auth, tailwind, prisma.
